@@ -26,6 +26,8 @@ namespace SOLID_practice
             InitializeComponent();
         }
 
+
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             double numero1 = Convert.ToDouble(textBox.Text);
@@ -58,10 +60,18 @@ namespace SOLID_practice
                 }
 
                 textBox3.Text = apresentacaoResultado;
+
             }
             catch (Exception)
             {
+                
             }
+
+            
+
+
+
+
         }
     }
 } 
