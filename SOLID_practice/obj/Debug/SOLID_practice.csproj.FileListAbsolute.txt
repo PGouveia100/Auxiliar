@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\bin\Debug\SOLID_practice.exe.config
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\bin\Debug\SOLID_practice.exe
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\bin\Debug\SOLID_practice.pdb
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\MainWindow.g.cs
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\App.g.cs
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice_MarkupCompile.cache
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice_MarkupCompile.lref
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\MainWindow.baml
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.g.resources
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.csproj.GenerateResource.cache
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.exe
+C:\Users\Paulo\Desktop\Nova pasta\SOLID_practice\obj\Debug\SOLID_practice.pdb
